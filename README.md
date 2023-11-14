@@ -14,7 +14,7 @@
     + Review tricks to solve questions
 
 ## Roadmap (from [NeetCode](https://neetcode.io/roadmap))
-![roadmap](roadmap.jpg)
+![roadmap](roadmap.png)
 
 ## Data structures covered so far:
 - [x] Arrays
