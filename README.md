@@ -20,8 +20,8 @@
 ### Arrays and Hashing
 Easy
 - [x] Two Sum
-- [ ] Contains duplicate
-- [ ] Valid anagram
+- [x] Contains duplicate
+- [x] Valid anagram
 
 Medium
 - [ ] Group anagrams
