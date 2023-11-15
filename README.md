@@ -16,6 +16,21 @@
 ## Roadmap (from [NeetCode](https://neetcode.io/roadmap))
 ![roadmap](roadmap.png)
 
+## LeetCode problems solved:
+### Arrays and Hashing
+Easy
+- [x] Two Sum
+- [ ] Contains duplicate
+- [ ] Valid anagram
+
+Medium
+- [ ] Group anagrams
+- [ ] Top K frequent elements
+- [ ] Product of array except self
+- [ ] Encode and decode strings
+- [ ] Longest consecutive sequence
+
+
 ## Data structures covered so far:
 - [x] Arrays
 - [ ] Stack
@@ -27,4 +42,5 @@
 
 
 ## Algorithms/techniques covered so far ft. (associated LeetCode problems):
-- [ ] jaja
+
+
