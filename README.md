@@ -24,7 +24,7 @@ Easy
 - [x] Valid anagram
 
 Medium
-- [ ] Group anagrams
+- x] Group anagrams
 - [ ] Top K frequent elements
 - [ ] Product of array except self
 - [ ] Encode and decode strings
