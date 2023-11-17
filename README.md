@@ -24,7 +24,7 @@ Easy
 - [x] Valid anagram
 
 Medium
-- x] Group anagrams
+- [x] Group anagrams
 - [ ] Top K frequent elements
 - [ ] Product of array except self
 - [ ] Encode and decode strings
@@ -33,6 +33,7 @@ Medium
 
 ## Data structures covered so far:
 - [x] Arrays
+- [X] Hash maps
 - [ ] Stack
 - [ ] LinkedList
 - [ ] Trees
@@ -42,5 +43,5 @@ Medium
 
 
 ## Algorithms/techniques covered so far ft. (associated LeetCode problems):
-
+- Multiple hashmaps to find anagrams
 
