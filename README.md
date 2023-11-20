@@ -44,5 +44,7 @@ Medium
 
 ## Algorithms/techniques covered so far ft. (associated LeetCode problems):
 - Multiple hashmaps to find anagrams
-- Bucket sort to solve 347 frequent k elements
-
+- Modified bucket sort to solve (347) frequent k elements
+    - Positions mean number of occurences of elements
+    - Arrays containing said element are stored instead of character count
+    -Traversed backwards instead of forwards
