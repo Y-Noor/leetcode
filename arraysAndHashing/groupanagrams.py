@@ -15,7 +15,7 @@ class Solution:
             results[tuple(count)].append(str)
             
 
-        return results.values()
+        return results
             
 
 strs = ["eat","tea","tan","ate","nat","bat"]
