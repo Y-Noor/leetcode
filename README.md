@@ -26,7 +26,7 @@ Easy
 Medium
 - [x] Group anagrams
 - [x] Top K frequent elements
-- [ ] Product of array except self
+- [x] Product of array except self
 - [ ] Encode and decode strings
 - [ ] Longest consecutive sequence
 
