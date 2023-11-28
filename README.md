@@ -33,8 +33,9 @@ Medium
 
 ## Data structures covered so far:
 - [x] Arrays
-- [X] Hash maps
-- [ ] Stack
+- [x] Hash maps
+- [x] Stack
+- [x] Queue
 - [ ] LinkedList
 - [ ] Trees
     - [ ] Tries
