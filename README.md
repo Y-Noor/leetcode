@@ -28,7 +28,7 @@ Medium
 - [x] Top K frequent elements
 - [x] Product of array except self
 - [ ] Encode and decode strings
-- [ ] Longest consecutive sequence
+- [x] Longest consecutive sequence
 
 
 ## Data structures covered so far:
