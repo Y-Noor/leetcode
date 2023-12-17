@@ -30,6 +30,7 @@ Medium
 - [ ] Encode and decode strings
 - [x] Longest consecutive sequence
 
+## Two pointers
 
 ## Data structures covered so far:
 - [x] Arrays
