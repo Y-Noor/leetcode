@@ -31,6 +31,7 @@ Medium
 - [x] Longest consecutive sequence
 
 ## Two pointers
+- [ ] 125. Valid Palindrome
 
 ## Data structures covered so far:
 - [x] Arrays
