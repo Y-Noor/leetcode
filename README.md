@@ -32,6 +32,7 @@ Medium
 
 ## Two pointers
 - [ ] 125. Valid Palindrome
+- [ ] 15. 3Sum
 
 ## Data structures covered so far:
 - [x] Arrays
