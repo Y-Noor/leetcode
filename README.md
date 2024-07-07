@@ -16,36 +16,8 @@
 ## Roadmap (from [NeetCode](https://neetcode.io/roadmap))
 ![roadmap](roadmap.png)
 
-## LeetCode problems solved:
-### Arrays and Hashing
-Easy
-- [x] Two Sum
-- [x] Contains duplicate
-- [x] Valid anagram
-
-Medium
-- [x] Group anagrams
-- [x] Top K frequent elements
-- [x] Product of array except self
-- [ ] Encode and decode strings
-- [x] Longest consecutive sequence
-
-## Two pointers
-- [ ] 125. Valid Palindrome
-- [ ] 167. Two Sum II - Input Array Is Sorted
-- [ ] 15. 3Sum
-
-## Data structures covered so far:
-- [x] Arrays
-- [x] Hash maps
-- [x] Stack
-- [x] Queue
-- [ ] LinkedList
-- [ ] Trees
-    - [ ] Tries
-- [ ] Graphs
-- [ ] Advanced graphs?
-
+## Python tricks to solve problems:
+- min/max functions
 
 ## Algorithms/techniques covered so far ft. (associated LeetCode problems):
 - Multiple hashmaps to find anagrams
