@@ -1,5 +1,7 @@
 # LeetCode adventures
 
+Only uploading the DSA right now
+
 ## Main principles 
 
 1. Order matters
